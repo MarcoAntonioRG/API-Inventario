@@ -41,7 +41,7 @@ Esta API basada en un enfoque de microservicios fue creada con el objetivo de ad
 
         docker-compose -f docker-compose-inventory.yml up
 
-3. Ejecutar broker de mensajería de RabbitMQ para notificación de bajo stock con:
+3. (Opcional) Ejecutar broker de mensajería de RabbitMQ para notificación de bajo stock con:
 
         docker-compose -f docker-compose-rabbitmq.yml up
 
