@@ -2,8 +2,6 @@
 
 Microservicio de inventario para un sitio web de ecommerce.
 
----
-
 ## Tecnologías Usadas
 
 - Java
@@ -13,8 +11,6 @@ Microservicio de inventario para un sitio web de ecommerce.
 - Docker
 - Postman
 
----
-
 ## Requisitos Técnicos
 
 Para ejecutar la aplicación es necesario tener instalado en tu máquina local:
@@ -22,13 +18,9 @@ Para ejecutar la aplicación es necesario tener instalado en tu máquina local:
 - Docker para la ejecución de todo el microservicio.
 - Postman para utilizar y verificar las rutas de la API.
 
----
-
 ## Descripción
 
 Esta API basada en un enfoque de microservicios fue creada con el objetivo de administrar los productos de un inventario de una tienda e-commerce de artículos de electrónica y robótica.
-
----
 
 ## Pasos para ejecutar
 
